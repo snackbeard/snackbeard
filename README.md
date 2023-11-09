@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @snackbeard
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... you can't.
+"Everybody has a testing environment. Some people are lucky  
+enough to have a totally separate environment to run production in."  
+ ~ unknown
 
 <!---
 snackbeard/snackbeard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
